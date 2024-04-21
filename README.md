@@ -10,8 +10,8 @@ La aplicación web SiuGym se especializa en la creación y en el seguimiento de 
 
 ## Tecnologias utilizadas
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; background-color: white;">
-    <img src="fotos_readme/logo_astro.png" alt="Logo de AstroJS" width="180" height="80">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%">
+    <img src="fotos_readme/logo_astro.webp" alt="Logo de AstroJS" width="180" height="80">
     &nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="fotos_readme/logo_springboot.png" alt="Logo de SqLite" width="180" height="80">
