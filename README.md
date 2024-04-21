@@ -6,7 +6,7 @@ Aplicación Web para diseñar y monitorizar tus rutinas de gimnasio
 
 ## Descripción
 
-La aplicación web SiuGym se especializa en la creación y en el seguimiento de rutinas de gimnasio. Esta aplicación permite a los usuarios personalizar sus rutinas de gimnasio seleccionando y agregando distintos ejercicios pudiendo hacer uso de rutinas preestablecidas para distintos niveles en función del nivel de especialización. Además permite llevar un seguimiento del avance en la rutina, guardando los pesos utilizados en cada ejercicio y ayudando al usuario a planificar sus entrenamientos.
+SiuGym es una aplicación web especializada en la creación y seguimiento de rutinas de gimnasio. Diseñada para ofrecer una experiencia personalizada, permite a los usuarios seleccionar y agregar una variedad de ejercicios, además de ofrecer rutinas preestablecidas adaptadas a distintos niveles de especialización. Con SiuGym, los usuarios pueden llevar un seguimiento detallado de su progreso en cada rutina, registrando los pesos utilizados en cada ejercicio y recibiendo recomendaciones para planificar sus entrenamientos de manera efectiva.
 
 ## Tecnologias utilizadas
 
